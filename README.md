@@ -1,2 +1,2 @@
 # Calculadora
- Projeto utilizando HTML, CSS E JAVASCRIPT
+ Projeto utilizando **HTML, CSS E JAVASCRIPT**
